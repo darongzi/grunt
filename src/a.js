@@ -1,4 +1,4 @@
-var hello = function() {
-    console.log('hello!');
+function main(a, b) {
+  return a === null;
 }
-hello();
+var index = 'sdf';
